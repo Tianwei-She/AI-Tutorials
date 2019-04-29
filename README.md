@@ -40,7 +40,10 @@ A collection of tutorials on AI, deep learning and other related topics.
 * [Transformer](http://jalammar.github.io/illustrated-transformer/)
 
 
-## Programming Languages
+## Deep Learning Toolkit & Programming Languages
+
+### TensorFlow
+* [Pretrained modules - TensorFlow Hub](https://tfhub.dev/)
 
 ### R
 * [Parallel Processing in R](http://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/notes/parallel.html)
