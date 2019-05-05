@@ -1,9 +1,11 @@
 # AI-Tutorials
 A collection of tutorials on AI, deep learning and other related topics.
 
+## Machine Learning Algorithms
+* [K-means clustering and EM algorithm](https://lear.inrialpes.fr/~jegou/bishopreadinggroup/chap9.pdf)
+
 ## Learning Algorithms
 * [Optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
-
 
 ## Unsupervised Learning
 
@@ -31,6 +33,9 @@ A collection of tutorials on AI, deep learning and other related topics.
 
 
 ## Natural Language Processing
+
+### Classical techniques
+* [IBM Machine Translation Model](http://mt-class.org/jhu/slides/lecture-ibm-model1.pdf)
 
 ### RNN
 * [Backpropagation Through Time (BPTT)](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
