@@ -50,6 +50,9 @@ A collection of tutorials on AI, deep learning and other related topics.
 ### TensorFlow
 * [Pretrained modules - TensorFlow Hub](https://tfhub.dev/)
 
+### CoLab 
+* [CoLab tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+
 ### R
 * [Parallel Processing in R](http://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/notes/parallel.html)
 
