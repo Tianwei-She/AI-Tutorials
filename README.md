@@ -32,6 +32,10 @@ A collection of tutorials on AI, deep learning and other related topics.
 * [Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
 * [Capsule Network](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
 
+### Videos
+* [Video classification methods review](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
+* [Video classification - CS231n](http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds08.pdf)
+
 
 ## Natural Language Processing
 
