@@ -33,8 +33,9 @@ A collection of tutorials on AI, deep learning and other related topics.
 * [Capsule Network](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
 
 ### Videos
-* [Video classification methods review](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
-* [Video classification - CS231n](http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds08.pdf)
+* [Video Classification Methods Review](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
+* [Video Classification - CS231n](http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds08.pdf)
+* [Action Recognition Tutorial](http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review) 
 
 
 ## Natural Language Processing
