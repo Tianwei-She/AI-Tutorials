@@ -6,6 +6,7 @@ A collection of tutorials on AI, deep learning and other related topics.
 
 ## Learning Algorithms
 * [Optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
+* [Momentum, RMSProp, Adam Optimizer](https://blog.paperspace.com/intro-to-optimization-momentum-rmsprop-adam/)
 
 ## Unsupervised Learning
 
