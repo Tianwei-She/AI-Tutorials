@@ -56,6 +56,8 @@ A collection of tutorials on AI, deep learning and other related topics.
 
 ### TensorFlow
 * [Pretrained modules - TensorFlow Hub](https://tfhub.dev/)
+* [Introduction to TensorFlow](https://blog.metaflow.fr/tensorflow-a-primer-4b3fa0978be3#.6axq0wkd7)
+* [Save and restore](https://blog.metaflow.fr/tensorflow-saving-restoring-and-mixing-multiple-models-c4c94d5d7125)
 
 ### CoLab 
 * [CoLab tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
