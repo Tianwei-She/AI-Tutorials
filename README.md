@@ -20,6 +20,7 @@ A collection of tutorials on AI, deep learning and other related topics.
 
 
 ### Generative Adversarial Networks (GAN)
+* [KL divergence](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-understanding-kl-divergence-2b382ca2b2a8)
 * [Wasserstein GAN (WGAN)](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 * [Adversarial Autoencoders](https://towardsdatascience.com/a-wizards-guide-to-adversarial-autoencoders-part-2-exploring-latent-space-with-adversarial-2d53a6f8a4f9)
 * [DCGAN](https://towardsdatascience.com/generative-adversarial-networks-part-ii-6212f7755c1f)
